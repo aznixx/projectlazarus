@@ -142,10 +142,6 @@
                     >
                 </div>
             </div>
-
-            <div class="flex w-300 h-300">
-                <img src="../../../../static/images/suspects/sus1.png" alt="" />
-            </div>
         </div>
     </div>
 </div>
