@@ -32,7 +32,7 @@
             </div>
 
             <div
-                class="grid grid-cols-1 md:grid-cols-3 gap-12 w-full mt-2 ml-80 opacity-0 animate-fade-in-L3"
+                class="grid grid-cols-1 md:grid-cols-3 gap-12 w-full mt-2 ml-60 opacity-0 animate-fade-in-L3"
             >
                 <div
                     class="space-y-2 w-100 glass-panel-premium p-6 lg:p-3 rounded-[2rem] border-2 border-white/5 shadow-[0_40px_80px_rgba(0,0,0,0.8)] group hover:intel-border transition-all"
