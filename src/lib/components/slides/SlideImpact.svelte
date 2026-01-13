@@ -51,9 +51,9 @@
                                 <p
                                     class="text-lg md:text-xl text-slate-intel leading-tight"
                                 >
-                                    Banken gaan <span
+                                    Bedrijf stort <span
                                         class="text-white italic font-bold"
-                                        >uit</span
+                                        >in</span
                                     >.
                                 </p>
                             </div>

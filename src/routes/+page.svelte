@@ -8,6 +8,7 @@
     import SlideTimeline from "$lib/components/slides/SlideTimeline.svelte";
     import SlideKillChain from "$lib/components/slides/SlideKillChain.svelte";
     import SlideStats from "$lib/components/slides/SlideStats.svelte";
+    import SlideVideo from "$lib/components/slides/SlideVideo.svelte";
     import SlideImpact from "$lib/components/slides/SlideImpact.svelte";
     import SlideConclusion from "$lib/components/slides/SlideConclusion.svelte";
 
@@ -20,6 +21,7 @@
         SlideProfile,
         SlideTimeline,
         SlideKillChain,
+        SlideVideo,
         SlideStats,
         SlideImpact,
         SlideConclusion,
